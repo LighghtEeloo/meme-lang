@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+./meme/__init__.py
+./meme/meme.py
+meme/__init__.py
+meme/meme.py
+meme_lang.egg-info/PKG-INFO
+meme_lang.egg-info/SOURCES.txt
+meme_lang.egg-info/dependency_links.txt
+meme_lang.egg-info/top_level.txt

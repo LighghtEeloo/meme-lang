@@ -1,6 +1,0 @@
-pyproject.toml
-setup.cfg
-meme/meme_lang.egg-info/PKG-INFO
-meme/meme_lang.egg-info/SOURCES.txt
-meme/meme_lang.egg-info/dependency_links.txt
-meme/meme_lang.egg-info/top_level.txt
