@@ -12,6 +12,10 @@ To keep the language implementation concise, the grammar of said language is ali
 
 Later you may find a detailed and formalized specification in `spec.pdf`, if the author (?) is charged up and functional.
 
+## Implementation
+
+Following the creed of DRY, we can use only 8 lines of code (with 2 lines of blanks) to implement said language. You may inspect the source code if you like. Feel the spirit of low code!
+
 ## Installation
 
 The language is based on [Python 3](https://www.python.org/), which can be installed [directly](https://www.python.org/downloads/) or via your system package manager. Make sure that you install a version that is superior than or equal to Python 3.6. Make sure that you also install [pip](https://pypi.org/project/pip/), the package manager for Python as well.
