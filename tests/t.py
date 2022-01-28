@@ -3,8 +3,8 @@ import sys
 # setting path
 sys.path.append('../')
 
-from meme import Meme
+from meme import MemeInterpret
 
 if __name__ == '__main__':
-    m = Meme("x.meme")
-    print(m.print(name="zzz"))
+    m = MemeInterpret("x.meme")
+    print(m.result(name="zzz"))

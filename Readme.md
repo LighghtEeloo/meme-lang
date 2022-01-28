@@ -14,7 +14,9 @@ Later you may find a detailed and formalized specification in `spec.pdf`, if the
 
 ## Implementation
 
-Following the creed of DRY, we can use only 8 lines of code (with 2 lines of blanks) to implement said language. You may inspect the source code if you like. Feel the spirit of low code!
+Following the creed of DRY, we can use only 6\* lines of code to implement said language. You may inspect the source code if you like. Low code, low errors; no code, no error. Think about it.
+
+\* As the development goes on, this may no longer be true; yet the creed shall guide us.
 
 ## Installation
 

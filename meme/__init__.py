@@ -1,1 +1,1 @@
-from .meme import Meme
+from meme.meme import *
