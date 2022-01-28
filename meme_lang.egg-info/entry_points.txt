@@ -1,0 +1,3 @@
+[console_scripts]
+executable-name = meme.__main__:main
+
